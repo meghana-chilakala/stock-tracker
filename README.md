@@ -1,4 +1,4 @@
-# CodeAlpha Python Programming Internship - Stock Portfolio Tracker Task 2
+# CodeAlpha Python Programming Internship - Stock Portfolio Tracker  Task 2
 
 ## 📌 Project Description
 
