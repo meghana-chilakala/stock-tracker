@@ -1,6 +1,0 @@
-Stock Portfolio Summary
-AAPL: 3 × 180 = 540
-TSLA: 2 × 250 = 500
-GOOG: 2 × 2700 = 5400
-
-Total Investment: 6440
